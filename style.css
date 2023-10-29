@@ -1,0 +1,45 @@
+body{
+    background-color: khaki;
+}
+
+.had-title{
+    color: rebeccapurple;
+    text-align: center;
+    font-family: Pacifico;/*fg*/
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.githab{
+    text-align:right;
+    display: block;
+}
+
+h1{
+    margin:0cm;
+}
+
+.Amatic_SC{
+    color: aquamarine;
+    font-family: Amatic SC;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 90;
+}
+
+.Press_Start_2P{
+    color: mediumseagreen;
+    font-family: Press Start 2P;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 50;
+}
+
+.Londrina_Outline{
+    color: lightcoral;
+    font-family: Londrina Outline;
+    font-size: 10px;
+    font-style: italic;
+    font-weight: 10;
+}
